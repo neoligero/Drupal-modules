@@ -1,6 +1,0 @@
-name = "Node List"
-description = "Module for list nodes"
-core = 7.x
-files[] = node_list.install
-files[] = node_list.admin.inc
-files[] = node_list.module

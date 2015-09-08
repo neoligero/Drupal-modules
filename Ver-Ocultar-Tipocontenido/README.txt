@@ -6,6 +6,4 @@ El module aparece como una opción del menu, y lista todos los nodos del tipo que
 Structure -> Content Type -> Edit
 Aparece en forma de checkbox abajo del todo, al lado del botón "Guardar"
 
-El maquetado es de propina, por practicar un poco.
-
 Author Neoligero.
